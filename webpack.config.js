@@ -5,7 +5,7 @@ const path = require('path');
 module.exports = {
 	mode: devMode ? 'development' : 'production',
 	entry: {
-		app: [ '@babel/polyfill', './src/playground/redux-expensify.js' ]
+		app: [ '@babel/polyfill', './src/app.js' ]
 	},
 	output: {
 		path: path.join(__dirname, 'public'),

@@ -20,6 +20,7 @@
 		"babel-plugin-transform-class-properties": "^6.24.1",
 		"babel-plugin-transform-object-rest-spread": "^6.26.0",
 		"css-loader": "^1.0.1",
+		"event-stream": "^3.3.4",
 		"live-server": "^1.2.0",
 		"moment": "^2.22.2",
 		"node-sass": "^4.10.0",
